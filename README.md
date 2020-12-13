@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Vectormike/Vectormike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there, my name is Victor! 👋
 🔭 I’m currently working at https://crenet.io full time. During the weekends, I spend most time on personal projects and technical writings at https://blog.logrocket.com/author/victorjonah/ 
 🌱 I’m currently learning React Native.
