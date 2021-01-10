@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi there, my name is Victor! 👋
-- 🔭 I’m currently working at https://crenet.io full time. During the weekends, I spend most time on personal projects and work for https://blog.logrocket.com/ as a technical writer.
+- 🔭 I’m currently working at https://crenet.io full time. During the weekends, I spend most time on personal projects and contribute to https://blog.logrocket.com/ as a technical writer.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on anything nice :)
 - 💬 Ask me about JS/TS/React/Node/Adonis/Express
