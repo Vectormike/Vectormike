@@ -8,3 +8,10 @@ Hi there, my name is Victor! 👋
 - 📫 How to reach me: email: victorjonah199@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Youtube.
+
+
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/Vectormike/count.svg" />
+</p>
