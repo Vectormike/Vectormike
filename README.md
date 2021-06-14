@@ -15,3 +15,6 @@ Hi there, my name is Victor! 👋
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/Vectormike/count.svg" />
 </p>
+
+
+[![Vectormike's github stats](https://github-readme-stats.vercel.app/api?username=vectormike&show_icons=true&theme=dracula)](https://github.com/vectormike/github-readme-stats)
