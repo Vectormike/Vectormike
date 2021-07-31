@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Hi there, my name is Victor! 👋
-- 🔭 I’m currently working at https://crenet.io full time. During the weekends, I spend most time on personal projects and contribute to https://blog.logrocket.com/ as a technical writer.
+- 🔭 Software Engineer at https://crenet.io. During the weekends, I spend most time on personal projects and contribute to https://www.sessionstack.com/ as a Technical writer.
 - 👯 I’m looking to collaborate on anything nice :)
-- 💬 Ask me about JS/TS/React/Node/Adonis/Express
+- 💬 Ask me about JS/TS/React/Node/Adonis/Express/Microservices
 - 📫 How to reach me: email: victorjonah199@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Youtube.
