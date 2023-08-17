@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi there, my name is Victor! 👋
-- 🔭 Senior Software Engineer at https://www.meekfi.com/ and Product Engineer at https://heykara.com/ late nights. During the weekends, I spend most time on personal projects and contribute to https://www.sessionstack.com/ as a Technical writer.
+- 🔭 Senior Software Engineer at [MeekFi](https://www.meekfi.com) and Product Engineer at [HeyKara]( https://heykara.com) late nights. During the weekends, I spend most time on personal projects and contribute to https://www.sessionstack.com/ as a Technical writer.
 - 👯 I’m looking to collaborate on anything nice :)
 - 💬 Ask me about JS/TS/React/Node/Adonis/Express/Microservices
 - 📫 How to reach me: email: victorjonah199@gmail.com
