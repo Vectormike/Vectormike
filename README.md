@@ -9,9 +9,3 @@ Hi there, my name is Victor! 👋
 - ⚡ Fun fact: I love Youtube.
 
 
-
-<p align="left"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/Vectormike/count.svg" />
-</p>
-
